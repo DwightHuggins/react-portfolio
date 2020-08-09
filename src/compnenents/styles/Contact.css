@@ -1,0 +1,26 @@
+#contacttext {
+    text-align: center;
+  font-family: Courier, monospace;
+    font-size: 24px;
+    font-size: 30px;
+    color: black;
+    margin: auto;
+    padding-bottom: 10px;
+  }
+  .col-md-6 {
+    margin: auto;
+  }
+  .col-12 {
+    margin: auto;
+    
+  }
+  .btn{
+      margin: auto;
+      /* font-family: 'Open Sans', sans-serif; */
+  }
+  /* .contact{
+     font-size: 30px;
+  } */
+  /* .row-contact{
+    margin-left: 20px;
+  } */
