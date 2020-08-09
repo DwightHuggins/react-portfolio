@@ -27,15 +27,6 @@ const AboutComp = () => {
               development roles far and wide. I'm super excited to be on this journey!
           </p>
 
-          <p>
-            I have always had a love for problem solving, analyzing data, and
-            creating projects. I never found the perfect way to implement those
-            skills and interests in a career. After months of research, soul
-            searching, <i>and Googling</i>, I discovered coding bootcamps. I
-            utilized CodeAcademy for a while to see if I would enjoy coding, and
-            I became obsessed. I am looking forward to building my coding skill
-            set, and finding a career as a developer.
-          </p>
         </div>
       </div>
     </article>
