@@ -12,7 +12,7 @@ const AboutComp = () => {
             Hi, my name is Dwight</h1><h1 id="introtext2">I am a Full-Stack Developer from Atlanta, GA.
           </h1>
           <p>
-          Hello World! My name is Dwight Huggins and I am originally from
+                 I am originally from
               small town Bartow, GA. I moved to the Atlanta area back in 2008 
               and it's been home since. I hold a Bachelor's of Interdisplinary 
               Studies from Georgia Southern Univeristy with concentrations in
